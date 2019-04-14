@@ -1,0 +1,5 @@
+打包:
+    Maven->选择项目->lifecyle->install;
+运行项目:
+    java -jar demo.jar
+    nohup java- jar demo.jar &
